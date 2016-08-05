@@ -1,0 +1,46 @@
+_repo: Suppl-ment-au-Voyage-de-Bougainville_6501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Diderot, Denis
+    alias: Diderot, Pantophile
+    birthdate: 1713
+    deathdate: 1784
+    gutenberg_agent_id: '2071'
+    url: http://www.gutenberg.org/2009/agents/2071
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Denis_Diderot
+    - http://en.wikipedia.org/wiki/Denis_Diderot
+description: "Supplément au voyage de Bougainville, ou dialogue entre A et B sur l'inconvénient\
+  \ d'attacher des idées morales à certaines actions physiques qui n'en comportent\
+  \ pas. (\"Addendum to the Journey of Bougainville, or dialogue between A and B on\
+  \ the drawback to binding moral ideas to certain physical actions which bear none\"\
+  ) is a set of philosophical dialogues written by Denis Diderot, inspired by Louis\
+  \ Antoine de Bougainville's Voyage autour du monde. It was written in 1772 for the\
+  \ journal Correspondance littéraire, which commissioned him to review Bougainville's\
+  \ account of his travels, but not published until 1796.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6501'
+  wikidata: Q1765222
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Sexual ethics'
+- !lcsh 'Philosophy'
+- !lcc 'HQ'
+- !lcsh 'Bougainville, Louis-Antoine de, comte, 1729-1811. Voyage autour du monde'
+- GITenberg
+tableOfContents: Jugement du Voyage de Bougainville -- Les adieux du vieillard --
+  L'entretien de l'Aumonier et d'Orou -- Suite du dialogue entre A. et B.
+title: Supplément au Voyage de Bougainville
+url: http://www.gutenberg.org/ebooks/6501
+wikipedia:
+- https://fr.wikipedia.org/wiki/Suppl%C3%A9ment_au_voyage_de_Bougainville
+- https://en.wikipedia.org/wiki/Suppl%C3%A9ment_au_voyage_de_Bougainville
+- https://ko.wikipedia.org/wiki/%EB%B6%80%EA%B0%B1%EB%B9%8C_%EC%97%AC%ED%96%89%EA%B8%B0_%EB%B3%B4%EC%9C%A0
