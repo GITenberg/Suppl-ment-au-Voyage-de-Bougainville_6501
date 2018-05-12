@@ -1,5 +1,8 @@
 _repo: Suppl-ment-au-Voyage-de-Bougainville_6501
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Diderot, Denis
@@ -19,6 +22,8 @@ description: "Supplément au voyage de Bougainville, ou dialogue entre A et B su
   \ Antoine de Bougainville's Voyage autour du monde. It was written in 1772 for the\
   \ journal Correspondance littéraire, which commissioned him to review Bougainville's\
   \ account of his travels, but not published until 1796.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6501#Suppl-ment-au-Voyage-de-Bougainville
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
